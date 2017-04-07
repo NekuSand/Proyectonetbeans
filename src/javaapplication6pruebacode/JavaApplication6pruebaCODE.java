@@ -18,6 +18,10 @@ public class JavaApplication6pruebaCODE {
         // TODO code application logic here
         int i = 0; 
         int j= 5;
+        
+  // castor cambiando
+        
+        
     }
     
 }
