@@ -7,7 +7,7 @@ package javaapplication6pruebacode;
 
 /**
  *
- * @author DAM109
+ * @author DAM108
  */
 public class JavaApplication6pruebaCODE {
 
